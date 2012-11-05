@@ -1,0 +1,13 @@
+E:\work\project\siri\siri\bin\Debug\siri.exe
+E:\work\project\siri\siri\bin\Debug\siri.pdb
+E:\work\project\siri\siri\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\project\siri\siri\obj\x86\Debug\siri.Form1.resources
+E:\work\project\siri\siri\obj\x86\Debug\siri.Properties.Resources.resources
+E:\work\project\siri\siri\obj\x86\Debug\ResGen.read.1.tlog
+E:\work\project\siri\siri\obj\x86\Debug\ResGen.write.1.tlog
+E:\work\project\siri\siri\obj\x86\Debug\siri.exe
+E:\work\project\siri\siri\obj\x86\Debug\siri.pdb
+E:\work\project\siri\siri\bin\Debug\siri.exe.config
+E:\work\project\siri\siri\bin\Debug\Newtonsoft.Json.dll
+E:\work\project\siri\siri\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\work\project\siri\siri\obj\x86\Debug\GenerateResource.write.1.tlog
